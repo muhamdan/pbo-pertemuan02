@@ -1,0 +1,12 @@
+package model;
+
+public class Matakuliah{
+public static void tampilanInfo(){
+System.out.println();
+System.out.println("== Data Mata Kuliah ==============");
+System.out.println("KODE : TIF3402");
+System.out.println("Nama : Pemrograman Berbasis Object 1");
+System.out.println("============================");
+}
+}
+
